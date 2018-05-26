@@ -12,6 +12,13 @@ public class TCs {
 		assertTrue(true);
 	}
 	
+	
+	@Test 
+	public void tc_003()
+	{
+		
+		assertTrue(true);
+	}
 	@Test 
 	public void tc_002()
 	{
